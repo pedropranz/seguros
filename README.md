@@ -1,0 +1,2 @@
+# seguros
+Frontend Seguros
